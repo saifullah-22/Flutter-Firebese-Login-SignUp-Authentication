@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954688768774",
+    "project_id": "verify-email-firebase",
+    "storage_bucket": "verify-email-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954688768774:android:5fd3289155b364a4e0ec87",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vs_email_verification_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLr07sb414HAIIJKqeT1wDPxh8npPnWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
